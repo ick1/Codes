@@ -1,4 +1,4 @@
-//Ricardo Dominguez Ojeda, 202325963, do202325963@alm.buap.mx
+//Ricardo Dominguez Ojeda
 #include <stdio.h>
 
 void sumaPeanoTrazaSum(int a, int b){    //Suma de Peano, con la traza de las sumas
